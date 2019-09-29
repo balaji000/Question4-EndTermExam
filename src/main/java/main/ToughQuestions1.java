@@ -21,7 +21,7 @@ public class ToughQuestions1 {
        System.out.println("Enter the account number");
        acc_no = Integer.parseInt(br.readLine());
        System.out.println("Enter the account holder name");
-       acc_name = br.readLine();
+       acc_name = br.readLine();//
        System.out.println("Enter the type of account");
        type = br.readLine();
        System.out.println("Enter the balance");
